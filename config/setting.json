@@ -1,0 +1,29 @@
+{
+  "config": {
+    "branch": "master",
+    "cname": "访问佳佳喵",
+    "domain": "https://ethic-233.github.io",
+    "email": "3514171197@qq.com",
+    "enabledProxy": "direct",
+    "platform": "github",
+    "privateKey": "",
+    "repository": "ethic-233.github.io",
+    "token": "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",
+    "username": "ethic-233"
+  },
+  "comment": {
+    "commentPlatform": "gitalk",
+    "disqusSetting": {
+      "api": "",
+      "apikey": "",
+      "shortname": ""
+    },
+    "gitalkSetting": {
+      "clientId": "",
+      "clientSecret": "",
+      "owner": "",
+      "repository": ""
+    },
+    "showComment": false
+  }
+}
