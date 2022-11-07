@@ -1,2 +1,1 @@
-# ethic-233.github.io
-用Gridea搭的一个博客
+![image](https://user-images.githubusercontent.com/82506867/200227259-0b5bce5e-14de-4fe0-a245-ca43c137fc3c.png)
